@@ -1,0 +1,12 @@
+<svg id="Phone_2523561" xmlns="http://www.w3.org/2000/svg" width="10.503" height="18" viewBox="0 0 10.503 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #191919;
+      }
+    </style>
+  </defs>
+  <path id="Path_2" data-name="Path 2" class="cls-1" d="M32.079,6.248a1.616,1.616,0,0,1,1.616,1.616V21.016a1.616,1.616,0,0,1-1.616,1.616H26.424a1.616,1.616,0,0,1-1.616-1.616V7.864a1.616,1.616,0,0,1,1.616-1.616h5.655m0-.808H26.424A2.424,2.424,0,0,0,24,7.864V21.016a2.424,2.424,0,0,0,2.424,2.424h5.655A2.424,2.424,0,0,0,34.5,21.016V7.864A2.424,2.424,0,0,0,32.079,5.44Z" transform="translate(-24 -5.44)"/>
+  <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="1.151" cy="1.151" r="1.151" transform="translate(4.1 14.086)"/>
+  <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="3.916" height="1.307" rx="0.653" transform="translate(3.294 0.154)"/>
+</svg>
