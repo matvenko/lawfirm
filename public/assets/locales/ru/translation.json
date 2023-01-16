@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "HOMEPAGE": "Главная",
+    "ABOUT_US": "О нас",
+    "PRACTICE": "О компании",
+    "ARCHIL": "Арчил Мчедлидзе",
+    "SERVICES": "Услуги",
+    "IMMIGRATION": "Иммиграция",
+    "BUSINESS": "Бизнес",
+    "CONTACT": "Контакты",
+    "CALL_US_OR_EMAIL": "Call us or email",
+    "REAL_ESTATE": "Недвижимость",
+    "COMPANY_FORMATION": "Регистрация компании"
+  },
+  "ACCOUNTING": "Бухгалтерские услуги",
+  "RECOMMENDED": "Рекомендованный",
+  "MEMBERSHIP": "Членство и партнерство",
+  "VISIT_US": "Visit US",
+  "FOLLOW_US": "FOLLOW US"
+}

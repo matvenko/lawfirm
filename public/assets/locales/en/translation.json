@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "HOMEPAGE": "Home",
+    "ABOUT_US": "About Us",
+    "PRACTICE": "Firm Overview",
+    "ARCHIL": "Archil Mchedlidze",
+    "SERVICES": "Services",
+    "IMMIGRATION": "Immigration",
+    "BUSINESS": "Business",
+    "CONTACT": "Contact",
+    "CALL_US_OR_EMAIL": "Call us or email",
+    "REAL_ESTATE": "Real Estate",
+    "COMPANY_FORMATION": "Company Formation",
+    "ACCOUNTING": "Accounting"
+  },
+  "RECOMMENDED": "Recommended By",
+  "MEMBERSHIP": "Membership & Partnership",
+  "VISIT_US": "Visit US",
+  "FOLLOW_US": "FOLLOW US"
+}
